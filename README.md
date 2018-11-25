@@ -1,5 +1,11 @@
 # TensorFlow VGG-16 pre-trained model
 
+## Structure
+
+![](https://github.com/Louis24/VGGNet/blob/master/VGG19.png)
+
+## Usage
+
 VGG-16 is my favorite image classification model to run 
 because of its simplicity and accuracy. The creators of this model 
 published a pre-trained binary that can be used in Caffe.
@@ -30,9 +36,3 @@ vgg16.tfmodel: VGG_ILSVRC_16_layers.caffemodel
 
 VGG_ILSVRC_16_layers.caffemodel:
 	curl -O http://www.robots.ox.ac.uk/~vgg/software/very_deep/caffe/VGG_ILSVRC_16_layers.caffemodel
-
-upload:
-	aws s3 cp vgg16-20160121.tfmodel s3://tinyclouds-storage/  --acl public-read
-
-clean:
-	rm -f vgg16.tfmodel
