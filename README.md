@@ -1,8 +1,9 @@
 # TensorFlow VGG-16 pre-trained model
 
 ## Structure
-
-![](https://github.com/Louis24/VGGNet/blob/master/VGG19.png)
+<div align="center">
+<img src="https://github.com/Louis24/VGGNet/blob/master/VGG19.png">
+</div>
 
 ## Usage
 
