@@ -1,4 +1,4 @@
-# TensorFlow VGG-16 pre-trained model
+# VGG-16 Net
 
 ## Structure
 <div align="center">
