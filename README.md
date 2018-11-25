@@ -1,16 +1,9 @@
 # VGG-16 Net
 
 ## Structure
-<div align="center">
-<img src="https://github.com/Louis24/VGGNet/blob/master/VGG19.png">
-</div>
 
 <div align="center">
 <img src="https://github.com/Louis24/VGGNet/blob/master/VGG16.png">
-</div>
-
-<div align="center">
-<img src="https://github.com/Louis24/VGGNet/blob/master/VGG%2016.png">
 </div>
 
 ## Usage
